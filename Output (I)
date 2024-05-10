@@ -1,0 +1,10 @@
+('Cillian', 98)
+{'Nolan': 99, 'Murph': 91, 'DiCaprio': 89, 'Bruce': 93}
+('Bruce', 93)
+{'Nolan': 99, 'Murph': 91, 'DiCaprio': 89}
+('DiCaprio', 89)
+{'Nolan': 99, 'Murph': 91}
+('Murph', 91)
+{'Nolan': 99}
+('Nolan', 99)
+{}
