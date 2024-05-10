@@ -1,0 +1,20 @@
+enter any string:count of all character is: {'T': 1}
+T .*
+count of all character is: {'T': 1, 'y': 1}
+T .*
+y .*
+count of all character is: {'T': 1, 'y': 1, 'l': 1}
+T .*
+y .*
+l .*
+count of all character is: {'T': 1, 'y': 1, 'l': 1, 'e': 1}
+T .*
+y .*
+l .*
+e .*
+count of all character is: {'T': 1, 'y': 1, 'l': 1, 'e': 1, 'r': 1}
+T .*
+y .*
+l .*
+e .*
+r .*
