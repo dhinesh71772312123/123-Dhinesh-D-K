@@ -1,0 +1,27 @@
+users={
+
+    'Tamil':'KUDY31','Sathish':'PVKAH57',
+
+    'Durden':'QODBSJ24','Nihu':'PLBE804',
+
+    'Galish':'KPPBFI09','Rocky':'SHQP15',
+
+    'Selva':'GHEUAK3','Salim':'URTMP3',
+
+    'Veera':'OOQRE45','Vidhur':'M16GH5'
+
+    }
+
+userid=input('Enter username:')
+
+password=input('Enter password:')
+
+for d,s in users.items():
+
+    if d==userid and s==password:
+
+        print('valid username and password')
+
+        exit()
+
+print('Invalid  username and password')
